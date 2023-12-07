@@ -1,0 +1,33 @@
+In this very first lesson i have created my first web page and validated that web page in W3C consortium
+What is HTML?
+HyperText Markup Language
+
+Standard language for devloping web page
+
+It defines meaning and structure of the web content
+
+HyperText refers to links that connects web pages to one another, either within website or between websites
+Markup ? 
+
+Tools needed
+	Browser
+	Code Editor
+
+
+index.html - first page expected to launch by server
+
+Element - html element is everything from the start tag,some content and an end tag
+		<tagname>content</tagname>
+
+Some element does not content. These element are called empty element.
+Empty element does not have an end tag
+
+HTML pages have 2 main areas
+	head area have meta data of a page
+	body area have data seen on the page
+
+
+Validation
+W3C Markup Validation Service
+W3C - World Wide Web Consortium makes standards for the web
+Always check the web page markup is correct 
