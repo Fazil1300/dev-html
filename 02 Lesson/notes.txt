@@ -1,0 +1,14 @@
+In this I learned adding meta tags and attibutes in head section
+
+meta element -> It defines metadata(extra information) of an HTML document.
+
+attribute -> attributes are providing extra information about html element.
+		always specified in the starting tag
+		usually comes in name=value pair
+			name="value"
+
+link element -> It represents a relationship between the current document and
+an external resource (CSS, JavaScript, Other resources pulling from web)
+
+Added fav-icon
+
