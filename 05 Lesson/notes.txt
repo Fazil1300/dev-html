@@ -1,0 +1,32 @@
+I have learned anchor tag, referencing, some psuedo code
+
+Hyperlink - used to link from one page to another.
+<a>..</a>
+
+href - attribute - indicates link's destination 
+<a href="url">..</a>
+
+An url can be
+    abosolute url
+    relative url
+
+abosolute url - a full web address
+
+relative url - a link to a page within the same website
+
+mailto: with href attribute - create a link that opens the user's email program, To let them send a new email 
+
+target attribute - specifies where to open the linked document
+values
+    _self - default - opens document in the same tab
+    _blank - opens document in the new tab
+   
+
+psuedo class used
+hover,active,visited
+
+Things do not to do
+    Avoid printing the full web address on the page
+    Avloid "links to" phrase
+    Keep your link short, Exact topic not sentences
+    No links to say "click here"
