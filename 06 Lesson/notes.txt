@@ -1,0 +1,47 @@
+I have learned how to insert an image tag
+
+note
+    caution when using licensed image
+
+<img> element  used to insert an image within an HTML document,figure and figcaption element,code element.
+alttributes
+src - 
+
+alt -   helps assistive technology what is the image about.
+        also helps to mention the note when wasn't loaded for some reasons.
+
+title - it wasn't help assistive technology but it appears complementary text on the tooltip appears when you place mouse cursor on the image.
+
+width -
+
+height - 
+
+figure element -  used to wrap image.
+<figure>...</figure>
+
+figure caption element - used to have description of a image.
+                        it does not helps with assistive technology.
+<figcaption>...</figcaption>
+
+width, height helps in cumulative layout shift
+
+makes an image responsive using css
+
+
+Bottom part of the web page which we can't see is called fold
+
+Attribute
+loading="lazy" - used when to increase performance of a web page by loading an image below the fold 
+    web pages starts the image loading after when we goes below and nearer to the image.
+
+
+
+Image Resources
+lorenipsum - placeholder generator
+unsplash
+pexels
+gratisography
+pixabay
+irfanview - software for resize image
+canva
+tinypng,tinyjpg
