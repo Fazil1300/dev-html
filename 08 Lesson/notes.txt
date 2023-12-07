@@ -1,0 +1,26 @@
+I have learned how to insert table in a html document
+
+Table - tab structure tabular data - made up of rows and columns
+
+Table elements -It is used to present data in tabular form or to create a table within an HTML document.
+<table>...</table>
+
+Table header - It defines the head cell of an HTML table
+<th>...</th>
+
+Table rows - It defines the row cells in an HTML table
+<tr>...</tr>
+
+Table data -  used to define cells of an HTML table which contains table
+data
+<td>...</td>
+
+Table semantic elements
+Table Header Element - It defines the header of an HTML table.
+<thead>...</thead>
+
+Table Body Element - It represents the body content of an HTML table.
+<tbody>...</tbody>
+
+Table Footer Element - It defines the footer content of an HTML table.
+<tfoot>...</tfoot>
