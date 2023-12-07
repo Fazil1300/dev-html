@@ -1,0 +1,20 @@
+I have learned semantic tags
+
+semantic defines meaning
+semantic tag - html document achieves organization with semantics
+                helps to see different sections in a web page
+                makes accessible to screen readers nad other assistive technology
+
+header
+main - one main area for content per page
+footer
+section
+article
+ol,ul,dl
+aside -
+detail 
+summary
+
+
+
+article/section - both are validator article has clear idea of what content is about.
