@@ -1,0 +1,17 @@
+I have learned about list elements
+
+List Elements - allows to group a set of related items in lists.
+we have three types of list to group lists
+ordered list
+unordered list
+description list
+
+Ordered list starts with <ol> and ends with </ol>
+Unordered list starts with <ul> and ends with </ul>
+
+Each list item starts with <li> and ends with </li>
+
+Description list is list of terms, with a description of each items, description list starts with <dl> and endswith </dl>
+<dt> tag defines term name
+<dd> tag defines describes each term
+
