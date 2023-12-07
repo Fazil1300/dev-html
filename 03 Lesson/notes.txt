@@ -1,0 +1,53 @@
+I have learned basics of 
+	creating text content on a web page
+	nesting element
+	block level elements
+	inline elements
+	white space collapsing
+	entities
+	comments
+
+Web pages are like essays, newspaper having headings,paragraphs 
+Very much of the headings are made up of headings and paragraphs element
+
+Heading Element
+Heading have a hierarchy, page should start with one heading
+Web pages can have subtopics
+Headings give in a web page semantic(giving meaning to content, helps assistive technology) meaning, Main topic and it's sub topic
+
+we can change size of heading in css
+
+Horizontal Rule Element - It is used to apply thematic break between paragraph-level elements.
+
+Block Level Element
+	Elements takes a full width from left to right as for as it.
+	Elements it breaks a line and starts from new line.
+	It creates space around content -> It can be formatted.
+		example
+			h1,h2,h3,h4,h5,h6,p,address, etc
+
+Inline Element
+	Elements does not start on a new line.
+	Elements only takes up as much width as necessary.
+		example
+			abbr,strong,emphasize, etc
+
+Abbreviation Element
+	It defines an abbreviation for a phrase or longer word.
+
+Address Element
+	It defines the author's contact information.
+
+Entities
+	Entity names or entity numbers can be used to display reserved HTML characters.
+		example
+			&nbsp; - &#160; - non breaking space
+			&lt; - &#60; - less than
+			&gt; - &#62; - greater than
+			.... etc
+
+Comments
+	You can use comment to explain your code.
+	Comments are not displayed in the browsers.
+
+Tooltips are not accessible to all assistive technology.
